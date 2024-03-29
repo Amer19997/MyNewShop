@@ -1,0 +1,7 @@
+E:\AngularProject1\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+C:\Users\Amer\Desktop\AngularProject1\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+C:\AngularProject1\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+C:\angularNeil\AngularProject1\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+E:\New folder (12)\shopclient\ShopClient-4bc1281937d586c683a81ea49934dea0a3755f19\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+C:\ShopClient-4bc1281937d586c683a81ea49934dea0a3755f19\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
+E:\ShopClient-4bc1281937d586c683a81ea49934dea0a3755f19\AngularProject1\obj\Debug\AngularProject1.esproj.CoreCompileInputs.cache
